@@ -1,0 +1,13 @@
+D:\Projects\Job\C#\Asp.net\DB First\DB First\bin\Debug\DB First.exe.config
+D:\Projects\Job\C#\Asp.net\DB First\DB First\bin\Debug\DB First.exe
+D:\Projects\Job\C#\Asp.net\DB First\DB First\bin\Debug\DB First.pdb
+D:\Projects\Job\C#\Asp.net\DB First\DB First\bin\Debug\EntityFramework.dll
+D:\Projects\Job\C#\Asp.net\DB First\DB First\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Job\C#\Asp.net\DB First\DB First\bin\Debug\EntityFramework.xml
+D:\Projects\Job\C#\Asp.net\DB First\DB First\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Job\C#\Asp.net\DB First\DB First\obj\Debug\DB First.csproj.AssemblyReference.cache
+D:\Projects\Job\C#\Asp.net\DB First\DB First\obj\Debug\DB First.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Job\C#\Asp.net\DB First\DB First\obj\Debug\DB First.csproj.CoreCompileInputs.cache
+D:\Projects\Job\C#\Asp.net\DB First\DB First\obj\Debug\DB First.csproj.CopyComplete
+D:\Projects\Job\C#\Asp.net\DB First\DB First\obj\Debug\DB First.exe
+D:\Projects\Job\C#\Asp.net\DB First\DB First\obj\Debug\DB First.pdb

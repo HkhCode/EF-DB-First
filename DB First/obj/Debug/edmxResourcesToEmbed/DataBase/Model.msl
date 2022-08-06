@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UnivercityModelStoreContainer" CdmEntityContainer="UnivercityEntities">
+    <EntitySetMapping Name="Cities">
+      <EntityTypeMapping TypeName="UnivercityModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="UnivercityModel.Course">
+        <MappingFragment StoreEntitySet="Course">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CourseStudents">
+      <EntityTypeMapping TypeName="UnivercityModel.CourseStudent">
+        <MappingFragment StoreEntitySet="CourseStudent">
+          <ScalarProperty Name="studentId" ColumnName="studentId" />
+          <ScalarProperty Name="courseId" ColumnName="courseId" />
+          <ScalarProperty Name="term" ColumnName="term" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="UnivercityModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Family" ColumnName="Family" />
+          <ScalarProperty Name="avg" ColumnName="avg" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="cityId" ColumnName="cityId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
